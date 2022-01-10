@@ -17,6 +17,6 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("======= [ Plugin tpa is disable ] =======");
     }
 }
