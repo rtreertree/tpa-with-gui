@@ -4,3 +4,6 @@ main: tpawithgui.rtree
 api-version: 1.18
 authors: [ rtree ]
 description: Teleport to other player with plugin
+commands:
+  admin:
+    description: Use bulid in admin system
