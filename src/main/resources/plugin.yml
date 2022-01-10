@@ -1,0 +1,6 @@
+name: TpaWit Gui
+version: '${project.version}'
+main: tpawithgui.rtree
+api-version: 1.18
+authors: [ rtree ]
+description: Teleport to other player with plugin
