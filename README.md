@@ -1,3 +1,4 @@
 # tpa-with-gui
-Minecraft tpa plugin
-#rtree like book
+Minecraft tpa plugins
+
+>/tpa < player >
